@@ -398,7 +398,7 @@ tr_TR:
       prev: "&lsaquo; Önceki"
       next: "Sonraki &rsaquo;"
       gap: "&hellip;"
-  password: Kelime
+  password: Parola
   password_empty_notice: Şifre boş olamaz.
   password_reset_success: Şifre sıfırlandı.
   password_different_notice: Parola Onayı eşleşmiyor.
@@ -512,7 +512,7 @@ tr_TR:
       auto: Toplantı başladığında otomatik olarak katılacaksınız.
   settings:
     account:
-      fullname: Reklam alanı
+      fullname: Kullanıcı Adı
       language: Dil
       provider: Sağlayıcı
       image: Görüntü
@@ -530,7 +530,7 @@ tr_TR:
       new: Yeni Şifre
       old: Eski Şifre
       subtitle: Şifreni değiştir
-      title: Kelime
+      title: Parola
     title: profil
     search: Ara
   signup:
